@@ -1,2 +1,2 @@
 # nodejs-dersleri
-nodejs
+Sadık Turan Node.js ile Web Programlama.
